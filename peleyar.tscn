@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://dv650e804v05o"]
+
+[node name="peleyar" type="CharacterBody2D"]
